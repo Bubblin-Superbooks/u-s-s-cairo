@@ -1,0 +1,22 @@
+{
+  "name": "U.S.S. Cairo",
+  "type": "novel",
+  "has_page_numbers": true,
+  "mode": {
+    "HTML": "html",
+    "CSS": "css",
+    "JS": "js",
+    "HEAD": "html"
+  },
+  "cover": {
+    "punchline": "The Story of a Civil War Gunboat",
+    "toc": "",
+    "author_detail": "",
+    "colophon": "",
+    "synopsis": ""
+  },
+  "status": "published",
+  "asset_url": "https://raw.githubusercontent.com/marvindanig/u-s-s-cairo/master/assets",
+  "book_id": 1285,
+  "book_url": "https://bubblin.io/book/u-s-s-cairo-by-united-states-national-park-service"
+}
