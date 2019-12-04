@@ -4,12 +4,12 @@
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/u-s-s-cairo/master/assets/images/p01.jpg"
   },
   {
-    "tag": "h3",
-    "innerHtml": "U.s.s. Cairo"
+    "tag": "h4",
+    "innerHtml": "U. S. S. Cairo"
   },
   {
-    "tag": "p",
-    "innerHtml": "The Story of a Civil War Gunboat"
+    "tag": "h3",
+    "innerHtml": "The Story Of A Civil War Gunboat"
   },
   {
     "tag": "img",
